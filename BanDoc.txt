@@ -1,0 +1,5 @@
+1;GV1;Nguyen Van A;CNTT;27;8;2018;Ho Chi Minh;0123456790
+1;GV2;Nguyen Van B;O To;22;1;2017;Ha Noi;01232131311
+1;GV3;Nguyen Van C;Co Khi;1;1;2018;Quang Nam;0123418812
+2;SV1;Van Phu E;CNTT;20;5;2019;18
+2;SV2;Cao Thanh Dat;Kinh Te;3;3;2018;17
