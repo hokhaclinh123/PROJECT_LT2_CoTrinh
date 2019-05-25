@@ -1,0 +1,10 @@
+TT1;Toan;Nguyen Van A;Kim Dong;32000;2005;140;10;2;2017;0
+S8;Anh Van;Khac Linh;NXB Giao Duc;23000;1999;200;5;1;2016;6
+10s;Hat Giong Tam Hon;Le Nin;Moscova;500000;2019;1000;20;11;2018;0
+5G;Nhat Ky Trong Tu;Ho Chi Minh;NXB Giao Duc;100000;2000;230;1;1;2013;0
+9L;Khoa Hoc;Kim Lien;NXB Thanh Nien;120000;2018;100;3;2;2014;4
+7FF;Ngu Van;Thanh Dat;Kim Dong;10000;2018;140;10;2;2015;1
+9PO;Dia Ly;Dinh Van A;Thanh Nien;30000;2019;123;16;2;2019;0
+4AL;Tieng Phap;Nobita;NXB France;200000;2014;300;20;7;2018;2
+2YB;Tieng Nhat;Doremon;NXB Japan;320000;2013;200;26;9;2017;0
+3SG;Tieng Trung;Chung Tu Don;NXB China;150000;2019;400;22;1;2019;0
